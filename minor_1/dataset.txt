@@ -1,0 +1,24 @@
+10
+2
+pwd
+4
+cd ..
+4
+cd ..
+4 
+cd computer_Graphics
+3
+ls
+11
+cat drpm.txt Here, the encryption is done by RSA algorithm by group-02(Aditi, Diwas, Utkarsh, Vanshika)
+8
+RSA dataset.txt
+7
+13
+Here, the encryption is done by RSA algorithm by group-02(Aditi, Diwas, Utkarsh, Vanshika)
+7
+notepad drpm.txt
+3
+ls
+10
+cat drpm.txt
